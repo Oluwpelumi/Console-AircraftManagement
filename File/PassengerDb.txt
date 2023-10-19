@@ -1,0 +1,4 @@
+1	tunde@yahoo.com	3000
+2	ridex@yahoo.com	0
+3	lola@yahoo.com	0
+4	tope@yahoo.com	2000

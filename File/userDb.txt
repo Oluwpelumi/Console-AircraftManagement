@@ -1,0 +1,8 @@
+1	wale	walex@yahoo.com	1234	abk	89967687998	Male	0	SuperAdmin
+2	kunle	kunlex@yahoo.com	1234	ibadan	08161395551	Male	0	Manager
+3	tunde	tunde@yahoo.com	1234	abj	081388589394	Male	3000	Passenger
+4	jide	jide@yahoo.com	1234	abuja	090747932739	Male	0	Pilot
+5	fola	fola@yahoo.com	1234	lagos	09174743892	Female	0	Pilot
+6	ridex	ridex@yahoo.com	1234	ibadan	09094882742	Male	0	Passenger
+7	lola	lola@yahoo.com	1234	osogbo	08188372842	Female	0	Passenger
+8	tope	tope@yahoo.com	1234	oyo	080748827274	Female	2000	Passenger

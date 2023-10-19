@@ -1,0 +1,2 @@
+1	kunle	kunlex@yahoo.com	1234	abk	08161395551	Male	0	Passenger
+2	wale	walex@yahoo.com	1234	abk	9498989095	Male	0	SuperAdmin
